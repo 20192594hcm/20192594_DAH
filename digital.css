@@ -1,0 +1,6 @@
+body {margin:0; background-color:#d0f9e7}
+#wrap {width:1300px; margin:0px auto; height:700px; font-family:"HY견명조"}
+#header{width:1300px; height:200px;}
+#logo {padding-top:30px; width:300px; float:left; margin-left:300px;}
+#main {width:1000px; height:800px; margin-top:100px; padding-left:100px;}
+#main1{width:500px; margin-left:380px; margin-top:150px;transition: .5s ease;}

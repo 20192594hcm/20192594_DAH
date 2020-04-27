@@ -1,0 +1,15 @@
+body {margin:0; background-color:#f6f2e0}
+#wrap {width:1300px; margin:0px auto; height:1700px;font-family:"HY견명조"}
+#header{width:1300px; height:200px;}
+#logo {height:100px; float:center; margin-right:50px; margin-left:10px;}
+#menu {text-align:center; background-color:#f6f2e0; padding:5px 0; margin-top:50px; margin-left:70px;}
+#intro {margin-top:10px;}
+#ck{width:1080px; height:100px; margin:0 auto; font-size:15px; text-align:center;}
+.plan {text-align:center; background-color:rgb(245, 248, 241); width:400px; height:350px; float:left; margin: 70px 20px 0px 65px; padding:20px;
+    font-size:0px;}
+.title{padding-top:10px; font-weight:bold; font-size:25px; text-align:left;}
+.text{padding-top:20px; text-align:left;}
+.plan:hover{font-size:17px; text-align:center;}
+#cka{width:300px; padding-right:60px; margin:0 auto;}
+a{color:black; text-decoration:none;}
+a:hover{color:#ff7c7c; text-decoration:underline;}
